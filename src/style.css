@@ -1,0 +1,13 @@
+img
+{
+    height: 500px;
+    width: 400px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: inset;
+}
+.title
+{
+    margin: center;
+   font-weight: 300;
+}
